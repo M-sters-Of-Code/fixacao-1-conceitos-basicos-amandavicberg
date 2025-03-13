@@ -8,14 +8,14 @@ namespace FixacaoConceitosBasicos1.Model
 {
     internal class CalculaAumento
     {
-        package Model;
+        //package Model;
 
-        public class CalculaAumento
-        {
-            public static double Calcular(double salario, double aumento)
-            {
-                return salario + aumento;
-            }
-        }
+        //public class CalculaAumento
+        //{
+        //    public static double Calcular(double salario, double aumento)
+        //    {
+        //        return salario + aumento;
+        //    }
+        //}
     }
 }

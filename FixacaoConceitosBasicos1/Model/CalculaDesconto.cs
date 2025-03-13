@@ -8,14 +8,14 @@ namespace FixacaoConceitosBasicos1.Model
 {
     internal class CalculaDesconto
     {
-        package Model;
+        //package Model;
 
-        public class CalculaDesconto
-        {
-            public static double Calcular(double valor, double desconto)
-            {
-                return valor - desconto;
-            }
-        }
+        //public class CalculaDesconto
+        //{
+        //    public static double Calcular(double valor, double desconto)
+        //    {
+        //        return valor - desconto;
+        //    }
+        //}
     }
 }

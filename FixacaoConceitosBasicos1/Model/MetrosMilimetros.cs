@@ -6,18 +6,11 @@ using System.Threading.Tasks;
 
 namespace FixacaoConceitosBasicos1.Model
 {
-    internal class MetrosMilimetros
+    public static class MetrosMilimetros
     {
-       namespace Model
-    {
-        public static class MetrosMilimetros
+        public static double Converter(double metros)
         {
-            public static double Converter(double metros)
-            {
-                return metros * 1000;
-            }
+            return metros * 1000;
         }
     }
-
-}
 }
